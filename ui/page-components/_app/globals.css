@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+	scroll-behavior: smooth;
+    font-family: "DM Sans", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-size: 14px;
+    color: #333333;
+}
+
+table, th, td{
+    padding-inline: 1.2rem;
+    padding-block: 2rem;
+}
+table, tr{
+    padding-top: 40px;
+}

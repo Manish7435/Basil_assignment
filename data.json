@@ -1,0 +1,144 @@
+[
+    {
+        "order_id": "OD101",
+        "drink_id":"C101",
+        "drink_name":"Mix Berry Smoothie",
+        "customization":"Low Honey",
+        "amount":"199RS",
+        "image":"/smoothie.svg",
+        "machine_name": "Aahaar stall 23 (MT101)",
+        "customer_name": "Simranjeet Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "126543 Rs",
+        "date" : "21/03/2023",
+        "status" : "SUCCESS",
+        "machine_id": "MT101"
+        
+    },
+    {
+        "order_id": "OD102",
+        "drink_id":"C102",
+        "drink_name":"Blueberry Fruit Punch",
+        "customization":"Low Honey",
+        "amount":"199RS",
+        "image":"/fruitpunch.svg",
+        "machine_name": "Aahaar stall 24 (MT102)",
+        "customer_name": "Param",
+        "contact_number": "9999999999",
+        "total_ammount": "1262Rs",
+        "date" : "22/03/2023",
+        "status" : "REFUND INITIATED",
+        "machine_id": "MT102"
+    },
+    {
+        "order_id": "OD103",
+        "drink_id":"C103",
+        "drink_name":"Pineapple Mojito",
+        "customization":"Low Honey",
+        "amount":"199RS",
+        "image":"/mohito.svg",
+        "machine_name": "Aahaar stall 25 (MT103)",
+        "customer_name": "Jack Richer",
+        "contact_number": "9999999999",
+        "total_ammount": "1265143 Rs",
+        "date" : "23/03/2023",
+        "status" : "FAILURE",
+        "machine_id": "MT103"
+    },
+    {
+        "order_id": "OD104",
+        "drink_id":"C104",
+        "drink_name":"Mint Lemonade",
+        "customization":"Low Honey",
+        "amount":"199RS",
+        "image":"/lemonade.svg",
+        "machine_name": "Aahaar stall 26 (MT104)",
+        "customer_name": "Paras Yadav",
+        "contact_number": "9999999999",
+        "total_ammount": "126543 Rs",
+        "date" : "24/03/2023",
+        "status" : "SUCCESS",
+        "machine_id": "MT104"
+    },
+    {
+        "order_id": "OD105",
+        "machine_name": "Aahaar stall 27 (MT105)",
+        "customer_name": "Kamlesh Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "121143 Rs",
+        "date" : "25/03/2023",
+        "status" : "SUCCESS",
+        "machine_id": "MT105"
+    },
+    {
+        "order_id": "OD106",
+        "machine_name": "Aahaar stall 28 (MT106)",
+        "customer_name": "Aaditya Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "12653Rs",
+        "date" : "26/03/2023",
+        "status" : "REFUND COMPLETED",
+        "machine_id": "MT106"
+    },
+    {
+        "order_id": "OD101",
+        "machine_name": "Aahaar stall 23 (MT101)",
+        "customer_name": "Simranjeet Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "126543 Rs",
+        "date" : "21/03/2023",
+        "status" : "SUCCESS",
+        "machine_id": "MT107"
+    },
+    {
+        "order_id": "OD102",
+        "machine_name": "Aahaar stall 24 (MT102)",
+        "customer_name": "Param",
+        "contact_number": "9999999999",
+        "total_ammount": "126322 Rs",
+        "date" : "22/03/2023",
+        "status" : "REFUND INITIATED",
+        "machine_id": "MT108"
+    },
+    {
+        "order_id": "OD103",
+        "machine_name": "Aahaar stall 25 (MT103)",
+        "customer_name": "Jack Richer",
+        "contact_number": "9999999999",
+        "total_ammount": "1265143 Rs",
+        "date" : "23/03/2023",
+        "status" : "FAILURE",
+        "machine_id": "MT109"
+    },
+    {
+        "order_id": "OD104",
+        "machine_name": "Aahaar stall 26 (MT104)",
+        "customer_name": "Paras Yadav",
+        "contact_number": "9999999999",
+        "total_ammount": "126543 Rs",
+        "date" : "24/03/2023",
+        "status" : "PENDING",
+        "machine_id": "MT110"
+    },
+    {
+        "order_id": "OD105",
+        "machine_name": "Aahaar stall 27 (MT105)",
+        "customer_name": "Kamlesh Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "121143 Rs",
+        "date" : "25/03/2023",
+        "status" : "SENT",
+        "machine_id": "MT111"
+    },
+    {
+        "order_id": "OD106",
+        "machine_name": "Aahaar stall 28 (MT106)",
+        "customer_name": "Aaditya Kaur",
+        "contact_number": "9999999999",
+        "total_ammount": "12653 Rs",
+        "date" : "26/03/2023",
+        "status" : "REFUND COMPLETED",
+        "machine_id": "MT112"
+    }
+    
+]
