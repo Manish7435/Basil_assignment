@@ -121,7 +121,7 @@ export default function GlobalFilter({ setSelectedMachines, selectedMachines, se
             <div className={styles.clearall_footer}>
                 Clear All
             </div>
-            <div className={styles.apply}>
+            <div className={styles.apply} onClick={()=>setShowGlobalFilter(false)}>
                 Apply
             </div>
 
